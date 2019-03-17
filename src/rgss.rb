@@ -1,0 +1,18 @@
+require 'rgss/rgss'
+
+require 'rgss/bitmap'
+require 'rgss/color'
+require 'rgss/font'
+require 'rgss/plane'
+require 'rgss/rect'
+require 'rgss/sprite'
+require 'rgss/table'
+require 'rgss/tilemap'
+require 'rgss/tone'
+require 'rgss/viewport'
+require 'rgss/window'
+require 'rgss/rgssreset'
+
+require 'rgss/audio'
+require 'rgss/graphics'
+require 'rgss/input'
